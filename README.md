@@ -4,6 +4,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1015" height="2" />
 <h3 align="center">A junior programmer who loves codes</h3>
 
-I completely know `HTML` and `CSS` right know and i intend to learn `bootstarp`, `tailwond`, `javascript`, `react`, `Next.js`, `Node.js` and `...`
+I completely know `HTML` and `CSS` right now and i intend to learn `bootstarp`, `tailwond`, `javascript`, `react`, `Next.js` and `...`
 
 ![gitartwork](gitartwork.svg)
