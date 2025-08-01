@@ -7,3 +7,9 @@
 I completely know `HTML` and `CSS` right now and i intend to learn `bootstarp`, `tailwond`, `javascript`, `react`, `Next.js` and `...`
 
 ![gitartwork](gitartwork.svg)
+
+---
+
+> 🚀 **"Building website with passion, learning with love, and dreaming beyond stars..."**
+
+---
