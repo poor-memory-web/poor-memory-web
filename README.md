@@ -19,7 +19,7 @@ I completely know `HTML` and `CSS` right now and i intend to learn `bootstarp`, 
 <table>
  <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=poor-memory-web&theme=maroongold&show_icons=true" alt="README stats card"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=poor-memory-web&show_icons=true&theme=maroongold" alt="README stats card"/>
    </td>
    <td>
      <img src="https://streak-stats.demolab.com/?user=poor-memory-web&theme=maroongold" alt="README streak stats card"/>
