@@ -10,7 +10,7 @@ I completely know `HTML` and `CSS` right now and i intend to learn `bootstarp`, 
 
 ---
 
-> 🚀 **"Building website with passion, learning with love, and dreaming beyond stars..."**
+> 🚀 **"Building website with passion, learning with love, and dreaming beyond starس..."**
 
 <br/>
 
